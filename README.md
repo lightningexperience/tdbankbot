@@ -1,5 +1,4 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-## Salesforce Canvas Demo
+## Einstein Bot deployment
 
-Instructions are available [here](http://ccoenraets.github.io/salesforce-developer-advanced/Using-Canvas.html)
